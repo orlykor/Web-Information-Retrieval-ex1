@@ -1,1 +1,1 @@
-# Web-Information-Retrival
+# Web-Information-Retrieval
